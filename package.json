@@ -1,0 +1,15 @@
+{
+  "name": "two-party-escrow-scaffold",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.17.0",
+    "chai": "^4.3.7",
+    "@openzeppelin/contracts": "^4.9.3"
+  },
+  "scripts": {
+    "test": "npx hardhat test"
+  }
+}
